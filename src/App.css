@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-image: url(https://wallpaperaccess.com/full/4092821.jpg);
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  color: c;
+}
